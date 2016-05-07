@@ -1,2 +1,2 @@
 # linux-firewall
-Simple Linux firewall
+Simple netfilter firewall for Linux
