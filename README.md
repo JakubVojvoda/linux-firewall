@@ -1,5 +1,6 @@
 # Linux Firewall
 
+Implementation of simple Linux Firewall using Netfilter for packet manipulation. The source code is licensed under MIT license (see [LICENSE]) and you can use it (insert builded kernel module) at your own risk.
 
 ### User space application
 
